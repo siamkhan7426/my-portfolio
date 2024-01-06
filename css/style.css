@@ -86,6 +86,29 @@ nav a {
   margin-bottom: 20px;
 }
 .banner-despciton {
-    max-width: 500px;
+  max-width: 500px;
 }
 
+/* main section style */
+.about {
+  padding: 130px;
+  border-radius: 10px;
+  background: #fff8f3;
+  margin: 130px 0;
+}
+.section-title {
+  text-align: center;
+  color: #181818;
+  font-size: 35px;
+  font-weight: 700;
+}
+.section-descripton {
+  color:#757575;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 18px;
+  font-weight: 400;
+  
+}
+/* 
+about section style */
