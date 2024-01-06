@@ -90,6 +90,37 @@ nav a {
 }
 
 /* main section style */
+.about-info-container{
+    display: flex;
+    gap: 25px;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.about-inf{
+    text-align: center;
+}
+.info-title{
+color: #757575;
+font-size: 20px;
+font-weight: 400; 
+}
+.info-description{
+color: #474747;
+font-size: 20px;
+font-weight: 700;
+
+}
+
+
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* 
+about section style */
+
 .about {
   padding: 130px;
   border-radius: 10px;
@@ -110,5 +141,5 @@ nav a {
   font-weight: 400;
   
 }
-/* 
-about section style */
+
+
