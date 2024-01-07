@@ -231,3 +231,15 @@ button{
 background: #FD6E0A;
 
 }
+
+/* footer */
+footer{
+  display: flex;
+  background: #FFF8F3;
+  margin-top: 110px;
+  padding: 130px 230px;
+  
+}
+.socail-link{
+  padding: 24px;
+}
